@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Vibe Wallpaper Generator",
+  "description": "A mobile-first web app for generating unique phone wallpapers. Users describe their desired vibe, and the app generates four image variations using AI. Users can view images fullscreen, download them, or remix the prompt to create new variations.",
+  "requestFramePermissions": []
+}
